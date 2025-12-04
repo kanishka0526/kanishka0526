@@ -1,9 +1,10 @@
 # Hi, I’m Kanishka Pradeep Patil 👋
 
- **Pre-final year B.Tech Student in AI & Data Science**  
+ **Final year B.Tech Student in Artificial Intelligence & Data Science**  
  **K. K. Wagh Institute of Engineering Education, Nashik**  
- Passionate about **AI, ML, NLP, Computer Vision, and Data Analytics**  
+ I have a keen interest in **Machine Learning, AI, NLP, Computer Vision, and Data Analytics**  
  Basketball Aficionado 
+ I'm good at **working in teams** and **taking the lead when needed**
 
 ---
 
