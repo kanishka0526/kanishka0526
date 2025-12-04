@@ -3,7 +3,7 @@
  **Pre-final year B.Tech Student in AI & Data Science**  
  **K. K. Wagh Institute of Engineering Education, Nashik**  
  Passionate about **AI, ML, NLP, Computer Vision, and Data Analytics**  
- Basketball Aficionado | Class Representative  
+ Basketball Aficionado 
 
 ---
 
